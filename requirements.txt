@@ -20,7 +20,7 @@ MarkupSafe==1.0
 nbformat==4.4.0
 networkx==2.1
 nltk==3.2.5
-numpy==1.14.3
+numpy==1.22.0
 oauthlib==2.0.7
 pandas==0.22.0
 plotly==2.5.1
